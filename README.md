@@ -1,8 +1,8 @@
 # Dimensionality-reduction and Visualisation in Python
  
-Aim of this project: Dimensionality reduction and Clustering
+<h2>Aim of this project: Dimensionality reduction and Clustering</h2>
 
-DataSet: Our dataset for this question consisted of pixel details for American Sign Language images that represented 24 English Alphabets. This dataset did not contain any information for the letter J and Z.
+DataSet: Dataset used consist of pixel details for American Sign Language images that represented 24 English Alphabets. This dataset did not contain any information for the letter J and Z.
 
 <h3> Process:</h3>
 Our process is consisting of many steps as mentioned below:<br>
